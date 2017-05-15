@@ -99,7 +99,7 @@ background-color: #cbede9;
 
 /* Month list */
 
-.month ul li {
+.month ul {
     margin: 0;
     padding: 0;
     color: white;
