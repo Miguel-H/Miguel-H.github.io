@@ -79,9 +79,11 @@ text-align:justify;
 }
 
 table, th, td {
-text-align:center;
 border:1.5px solid black;
 }
 th {
 background-color: #bbf9f0;
+}
+td:hover {
+background-color: white;
 }
