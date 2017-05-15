@@ -93,7 +93,7 @@ background-color: #cbede9;
 .month {
     margin:0 50px 0;
     padding: 70px 25px;
-    width: 85%;
+    width: 65%;
     background: #1abc9c;
 }
 
@@ -123,7 +123,7 @@ background-color: #cbede9;
 
 /* Weekdays (Mon-Sun) */
 .weekdays {
-    width:85%;
+    width:65%;
     margin: 0 50px 0;
     padding: 10px 0;
     background-color:#ddd;
@@ -137,7 +137,7 @@ background-color: #cbede9;
 }
 /* Days (1-31) */
 .goals {
-    width:85%;
+    width:65%;
     background: #eee;
     margin: 0 50px 0;
 }
