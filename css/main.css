@@ -78,9 +78,9 @@ text-align:justify;
 
 }
 
-table{
+table {
 text-align:center;
 }
-.tab td{
+.tab tr td {
 text-align:left;
 }
