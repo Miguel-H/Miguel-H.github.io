@@ -91,7 +91,6 @@ background-color: #cbede9;
 }
 /* Month header */
 .month {
-    margin:50px
     padding: 70px 25px;
     width: 70%;
     background: #1abc9c;
@@ -125,7 +124,7 @@ background-color: #cbede9;
 /* Weekdays (Mon-Sun) */
 .weekdays {
     width:70%;
-    margin: 50px;
+    margin: 0;
     padding: 10px 0;
     background-color:#ddd;
 }
@@ -140,4 +139,4 @@ background-color: #cbede9;
 .days {
     width:70%;
     background: #eee;
-    margin: 50px;
+    margin: 0;
