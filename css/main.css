@@ -91,6 +91,7 @@ background-color: #cbede9;
 }
 /* Month header */
 .month {
+    margin:50px
     padding: 70px 25px;
     width: 100%;
     background: #1abc9c;
