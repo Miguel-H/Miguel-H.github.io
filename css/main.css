@@ -79,11 +79,11 @@ text-align:justify;
 }
 
 table, th, td {
-border:1.5px #12a9ba;
+border:1.5px solid #12a9ba;
 }
 th {
 background-color: #bbf9f0;
 }
-td:hover {
+tr:hover {
 background-color: #cbede9;
 }
