@@ -26,6 +26,7 @@ background:#14f4da;
   }
 .nav ul li:hover {
 background-color:#11e3ca;
+z-index: 1;
 }
 .nav ul li a,visited {
 display:block;
