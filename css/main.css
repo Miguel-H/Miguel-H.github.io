@@ -63,6 +63,7 @@ color:#44d6e6;
 img {
     max-width:100%;
     height:auto;
+    float:right;
 }
 .about {
 margin:50px;
