@@ -79,6 +79,7 @@ text-align:justify;
 }
 table {
 margin:50px;
+width:50%;
 }
 table, th, td {
 border:1.5px solid #12a9ba;
@@ -132,5 +133,4 @@ background-color: #cbede9;
 img {
     max-width:100%;
     height:auto;
-    float:right;
 }
