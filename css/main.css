@@ -150,7 +150,7 @@ background-color: #cbede9;
 .gallery > div {
   position: relative;
   float: left;
-  padding: 20px;
+  padding: 15px;
 }
 
 .gallery > div > img {
