@@ -61,9 +61,8 @@ font-size:80px;
 color:#44d6e6;
 }
 img {
-    max-width:50%;
+    max-width:30%;
     height:auto;
-    float:right;
 }
 .about {
 margin:50px;
@@ -84,7 +83,7 @@ text-align:justify;
 }
 table {
 margin:50px;
-width:40%;
+width:30%;
 }
 table, th, td {
 border:1.5px solid #12a9ba;
