@@ -130,5 +130,7 @@ background-color: #cbede9;
     text-align:justify;
 }
 img {
-    padding-bottom:40px;
+    max-width:100%;
+    height:auto;
+    float:right;
 }
