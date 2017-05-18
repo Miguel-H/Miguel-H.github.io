@@ -146,12 +146,12 @@ img {
 .gallery > div {
   position: relative;
   float: left;
-  padding: 8px;
+  padding: 5px;
 }
 
 .gallery > div > img {
   display: block;
-  width: 300px;
+  width: 200px;
   transition: .1s transform;
   transform: translateZ(0); /* hack */
 }
