@@ -150,7 +150,7 @@ background-color: #cbede9;
             background-color: red;
             height: 400px;
             clear: both;
-            position: relative;
+            position: absolute;
             
             -webkit-transition: left 2s;
             -moz-transition: left 2s;
@@ -162,7 +162,7 @@ background-color: #cbede9;
             float: left;
             margin: 0px;
             padding: 0px;
-            position: relative;
+            position: absolute;
         }
         
 #slider-image-1:target ~ .image-holder
@@ -181,7 +181,7 @@ background-color: #cbede9;
         }
         
 .button-holder {
-            position: relative;
+            position: absolute;
             top: -20px;
         }
         
