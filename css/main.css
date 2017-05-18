@@ -140,7 +140,7 @@ background-color: #cbede9;
     margin:80px 50px;
 }
 .gallery {
-  width: 1240px;
+  width: 1040px;
   margin: 0 auto;
   padding: 5px;
   background: #fff;
@@ -155,7 +155,7 @@ background-color: #cbede9;
 
 .gallery > div > img {
   display: block;
-  width: 250px;
+  width: 200px;
   transition: .1s transform;
   transform: translateZ(0); /* hack */
 }
