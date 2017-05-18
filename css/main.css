@@ -130,8 +130,6 @@ background-color: #cbede9;
     text-align:justify;
 }
 imag {
-    display:block;
-    margin:auto;
-    
-    
+    max-width:100%;
+    height:auto;
 }
