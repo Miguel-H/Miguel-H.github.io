@@ -136,7 +136,7 @@ img {
     padding-top:200px;
 }
 .gallery {
-  width: 640px;
+  width: 840px;
   margin: 0 auto;
   padding: 5px;
   background: #fff;
@@ -146,7 +146,7 @@ img {
 .gallery > div {
   position: relative;
   float: left;
-  padding: 5px;
+  padding: 8px;
 }
 
 .gallery > div > img {
@@ -161,7 +161,7 @@ img {
 }
 
 .gallery > div:hover > img {
-  transform: scale(1.7,1.7);
+  transform: scale(1.5,1.5);
   transition: .3s transform;
 }
 
