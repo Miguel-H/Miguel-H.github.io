@@ -26,7 +26,7 @@ background:#14f4da;
   }
 .nav ul li:hover {
 background-color:#11e3ca;
-z-index: 1;
+
 }
 .nav ul li a,visited {
 display:block;
@@ -39,6 +39,7 @@ color:white;
 }
 .nav ul li:hover ul {
 display:block;
+z-index: 1;
 }
 .nav ul ul {
 display:none;	
@@ -132,9 +133,8 @@ background-color: #cbede9;
     text-align:left;
     text-align:justify;
 }
-.gui img {
-    padding-top:100px;    
-    margin:50px;
+.gui img {    
+    margin:80px 50px;
 }
 .gallery {
   width: 640px;
